@@ -1,0 +1,11 @@
+﻿sample,med,lab-test,clinical order,outcome
+Patient_1,2,3,8,ICU_transfer
+Patient_2,3,4,1,death
+Patient_3,4,6,2,alive
+Patient_4,6,7,4,ICU_transfer
+Patient_5,2,8,56,alive
+Patient_6,9,9,7,alive
+Patient_7,5,5,5,death
+Patient_8,3,3,3,ICU_transfer
+Patient_9,4,5,4,ICU_transfer
+Patient_10,2,7,5,death
